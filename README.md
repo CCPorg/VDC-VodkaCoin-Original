@@ -2,6 +2,7 @@ VodkaCoin
 ========
 VodkaCoin is a scrypt ALGO based crypto coin like Litecoin but with random rewards feature from Luckycoin (random blocks) and with transaction message feature from Florincoin (transaction message).
 VodkaCoin is a fast and secure crypto currency ready for micro sales of goods, services payment and focused on industry specific needs.
+
 **VodkaCoin is profitable for those who like Vodka, Vodka based cocktails and to have some good time!!!**
 
 BTW Vodka in russian means water ;)
@@ -20,7 +21,7 @@ Get more info
 * Twitter: https://twitter.com/AddNodeMaster
 * Direct contact: contact@@@vodkacoin.info
 * IRC Channel: https://webchat.freenode.net/?channels=#ccp
-
+* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
 
 Tech Spec
 ========
@@ -39,7 +40,7 @@ Tech Spec
 
 Version 642 Modifications
 ========
-* Checkpoints up to block 478093
+* Checkpoints up to block *478093*
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Change the version number from Ver. 631 to Ver 642 (New Version Scale)
