@@ -13,16 +13,6 @@ Default Ports
 * RPC: **58556**
 
 
-Get more info
-========
-* Official WEB Site: http://vodkacoin.info
-* Block explorer: http://explorer.vodkacoin.info
-* Forum: https://cryptocointalk.com/forum/780-vodkacoin-vdc/
-* Twitter: https://twitter.com/AddNodeMaster
-* Direct contact: contact@@@vodkacoin.info
-* IRC Channel: https://webchat.freenode.net/?channels=#ccp
-* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
-
 Tech Spec
 ========
 * Scrypt Algo
@@ -36,15 +26,25 @@ Tech Spec
 * Random reward
 
 
-
-
 Version 642 Modifications
 ========
-* Checkpoints up to block *478093*
+* Checkpoints up to block **478093**
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Change the version number from Ver. 631 to Ver 642 (New Version Scale)
 * **REWARD HAVING REMOVED**
+
+
+Get more info
+========
+* **Official WEB Site:** *http://vodkacoin.info*
+* **Direct contact:** *contact@@@vodkacoin.info*
+* **Twitter:** *https://twitter.com/AddNodeMaster*
+* **Block explorer:** *http://explorer.vodkacoin.info*
+* **IRC Channel:** *https://webchat.freenode.net/?channels=#ccp*
+* **Forum:** *https://cryptocointalk.com/forum/780-vodkacoin-vdc/*
+* **Facebook page:** *https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136*
+
 
 ========
 VDC-VodkaCoin is provided by CCP aka Crypto Currency Preservation.  
